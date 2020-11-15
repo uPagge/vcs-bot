@@ -14,7 +14,7 @@
     </modules>
 
     <name>SDK VCS BOT</name>
-    <description>Set of abstract components for working with VCS systems</description>
+    <description>Set of abstract components for working with VCS</description>
     <url>https://github.com/uPagge/bitbucketbot</url>
     <licenses>
         <license>
